@@ -1,3 +1,5 @@
+# This has been archived.
+
 ## ONLY WINDOWS 10/11 CURRENTLY - LINUX AND MAC COMING SOON
 *(I need someone who has MacOS to compile it.....please, someone.)*
 # ARNIS API - GUI VERSION
